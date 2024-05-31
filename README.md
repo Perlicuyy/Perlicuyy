@@ -11,12 +11,13 @@ RINGKASAN
 <title>Horizontal Rule</title>
 Perkenalkan saya Firly Okta Tri Ramadhan, saya punya panggilan yang unik dari keluarga,teman,tetangga sekitar rumah saya yaitu (Madang) tapi faktanya teman di sekolah hanya tau panggilan saya Firly.Saat ini aktif sebagai siswa SMA 3 KOTA SERANG
 
-PENGALAMAN KERJA & ORGANISASI
+PENGALAMAN ORGANISASI
 <title>Horizontal Rule</title>
-Atletik (hanya di kelas 10)
+Atletik (hanya di kelas 10), organisasi lari diluar sekolah (Serang Running Club), organisasi Amara futsal Academy
 PENDIDIKAN
-<title>Interactive Button with Logo</title> <style> .button { display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007BFF; border: none; border-radius: 5px; text-align: center; text-decoration: none; cursor: pointer; } .button img { vertical-align: middle; margin-right: 10px; height: 24px; /* Adjust based on your needs */ } .button:hover { background-color: #0056b3; } </style> <title>Horizontal Rule</title>
-SMAN 3 KOTA SERANG
+<title>Interactive Button with Logo</title> <style>.button { display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007BFF; border: none; border-radius: 5px; text-align: center; text-decoration: none; cursor: pointer; } .button img { vertical-align: middle; margin-right: 10px; height: 24px; /* Adjust based on your needs */ } .button:hover { background-color: #0056b3; } </style> <title>Horizontal Rule</title>
+SDN 8 KOTA SERANG,SMPN 1 KOTA SERANG,SMAN 3 KOTA SERANG
 
 <title>Horizontal Rule</title>
 <title>Interactive Button with Logo</title> <style> .button { display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007BFF; border: none; border-radius: 5px; text-align: center; text-decoration: none; cursor: pointer; } .button img { vertical-align: middle; margin-right: 10px; height: 24px; /* Adjust based on your needs */ } .button:hover { background-color: #0056b3; } </style>
+instagram : @firlyramadhan9
